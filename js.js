@@ -8,7 +8,7 @@ for (let i = 0; i < btns.length; i++) {
     btns[i].addEventListener('click', function() {addToCart(this);});
 }
 function Hello(){
-alert('fadlan shiid baad tahay ee ciyaarta inaga daa 😁😁')
+alert('Soo dhawoow Ila mayrayso')
 }
 Hello();
 /* ADD TO CART functions */
